@@ -17,6 +17,7 @@ function App() {
       />
       <Input 
       setColorValue= {setColorValue}
+      colorValue={colorValue}
       setHexValue = {setHexValue}
       setIsDarkText = {setIsDarkText}
       isDarkText = {isDarkText}
